@@ -1,0 +1,7 @@
+{
+  "name": "EcoGram - Morgaon Digras Village Portal & CEP Showcase",
+  "description": "Public village showcase and Panchayat worker portal for Morgaon Digras, Buldhana, Maharashtra - Plastic-Free Village & Sustainable Low-Cost Housing CEP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

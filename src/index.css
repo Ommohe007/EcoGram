@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: #F9F9F9;
+    color: #212121;
+    overflow-x: hidden;
+  }
+  h1, h2, h3, h4, h5, h6, .font-mukta {
+    font-family: 'Mukta', sans-serif;
+  }
+}
+
+.bg-forest {
+  background-color: #2E7D32;
+}
+
+.text-forest {
+  color: #2E7D32;
+}
+
+.border-forest {
+  border-color: #2E7D32;
+}
+
+.bg-terracotta {
+  background-color: #D84315;
+}
+
+.text-terracotta {
+  color: #D84315;
+}
+
+.border-terracotta {
+  border-color: #D84315;
+}
+
+.bg-cream {
+  background-color: #F9F9F9;
+}
+
